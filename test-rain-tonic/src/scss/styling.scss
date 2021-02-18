@@ -1,0 +1,14 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.description {
+  &.showMore {
+    display: none;
+  }
+  &.showLess {
+    display: block;
+  }
+}
+
+.poster-Img {
+  border-radius: 0.5em;
+}
